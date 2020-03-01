@@ -6,9 +6,9 @@
 
 ## Authors/Contributors
 
-**xXQuantumSoulXx**
-**MrDev**
-**AnErrupTion**
+- **xXQuantumSoulXx**
+- **MrDev**
+- **AnErrupTion**
 
 ## Show your support
 
