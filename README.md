@@ -4,12 +4,11 @@
 
 > The last discord bot you need... for cheap... and that's a great price!
 
-## Author
+## Authors/Contributors
 
-👤 **Spanner**
-
-* Website: https://quantumsoul.xyz
-* Github: [@xXQuantumSoulXx](https://github.com/xXQuantumSoulXx)
+**xXQuantumSoulXx**
+**MrDev**
+**AnErrupTion**
 
 ## Show your support
 
